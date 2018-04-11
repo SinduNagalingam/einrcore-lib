@@ -56,7 +56,7 @@ einrcore.Script = require('./lib/script');
 einrcore.Transaction = require('./lib/transaction');
 einrcore.URI = require('./lib/uri');
 einrcore.Unit = require('./lib/unit');
-
+einrcore.Message = require('./lib/message');
 // dependencies, subject to change
 einrcore.deps = {};
 einrcore.deps.bnjs = require('bn.js');
