@@ -52223,7 +52223,7 @@ module.exports={
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore-lib.git"
+    "url": "https://github.com/SinduNagalingam/einrcore-lib.git"
   },
   "browser": {
     "request": "browser-request"
@@ -52237,7 +52237,7 @@ module.exports={
     "lodash": "=3.10.1"
   },
   "devDependencies": {
-    "bitcore-build": "bitpay/bitcore-build",
+    "bitcore-build": "SinduNagalingam/einrcore-build",
     "brfs": "^1.2.0",
     "chai": "^1.10.0",
     "gulp": "^3.8.10",
@@ -52246,7 +52246,7 @@ module.exports={
   "license": "MIT"
 }
 
-},{}],"bitcore-lib":[function(require,module,exports){
+},{}],"einrcore-lib":[function(require,module,exports){
 (function (global,Buffer){
 'use strict';
 
